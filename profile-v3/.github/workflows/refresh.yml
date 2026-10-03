@@ -1,0 +1,42 @@
+name: Refresh profile
+
+# Picks the header GIF for the current time in Pune (morning, afternoon, evening, night)
+# and redraws the name strip and the live activity card. Only commits when something actually changed.
+on:
+  schedule:
+    # every hour at :37 (Pune's scene changes land on :30 UTC, and off-the-hour runs start sooner)
+    - cron: "37 * * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - "scripts/**"
+      - ".github/workflows/refresh.yml"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: refresh-profile
+  cancel-in-progress: true
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+
+      - name: Draw scene and stats
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          PROFILE_USER: ${{ github.repository_owner }}
+        run: python3 scripts/build.py
+
+      - name: Commit if changed
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add assets README.md
+          if git commit -m "refresh profile"; then
+            git push
+          fi

@@ -1,0 +1,23 @@
+{
+  "morning": [
+    {"id": "3CN1y0JYIPg8tBWRyg", "w": 480, "h": 436, "art": "Mountain lake", "by": ""},
+    {"id": "5ngV4MB0UnYc2loCHT", "w": 640, "h": 400, "art": "Winter sunrise", "by": "Anas Abdin"},
+    {"id": "3diu2dFNpV8AnozJ3V", "w": 640, "h": 400, "art": "Golden forest", "by": ""}
+  ],
+  "afternoon": [
+    {"id": "RMwgs5kZqkRyhF24KK", "w": 480, "h": 270, "art": "Afternoon on the grass", "by": "Seeking Blue"},
+    {"id": "HxVV2O1bYtsRHij2JH", "w": 540, "h": 540, "art": "Waterfall", "by": "dualvoidanima"},
+    {"id": "TRebCjNbc4dIA", "w": 500, "h": 477, "art": "Castle on the hill", "by": ""}
+  ],
+  "evening": [
+    {"id": "A5ffIYwJoEpVcMOYiO", "w": 480, "h": 270, "art": "Running home at sunset", "by": "Kevin Farias"},
+    {"id": "CQl0tM5gYyqQg", "w": 540, "h": 810, "art": "City at dusk", "by": "waneella"},
+    {"id": "zC3vlpZ3eZBS0", "w": 500, "h": 282, "art": "First stars", "by": ""}
+  ],
+  "night": [
+    {"id": "rzeWnbH8Uc5Y4", "w": 500, "h": 475, "art": "Waterfall village at night", "by": "pixelfoxy"},
+    {"id": "KbBsgXdWFhr8nfz0ho", "w": 383, "h": 480, "art": "City lights from the hill", "by": "Darius Anton"},
+    {"id": "HRXnPYf10Zx0wz4alF", "w": 506, "h": 254, "art": "Moon over the hills", "by": "kaijupxl"},
+    {"id": "n53gX0wavokQE", "w": 500, "h": 600, "art": "Moonlit shore", "by": ""}
+  ]
+}
