@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.giphy.com/media/HxVV2O1bYtsRHij2JH/giphy.gif" height="440" alt="Waterfall, a pixel-art animation shown for afternoon in Pune">
+  <img src="https://i.giphy.com/media/rzeWnbH8Uc5Y4/giphy.gif" height="440" alt="Waterfall village at night, a pixel-art animation shown for night in Pune">
 </p>
 
 <picture>
@@ -11,7 +11,7 @@
   <a href="https://www.linkedin.com/in/tejas03/"><code>linkedin</code></a> &nbsp;
   <a href="mailto:tejasthange3@gmail.com"><code>email</code></a> &nbsp;
   <a href="https://github.com/TejasThange3?tab=repositories"><code>repositories</code></a>
-  <br><sub>art: <a href="https://giphy.com/gifs/HxVV2O1bYtsRHij2JH">dualvoidanima</a> via GIPHY · the scene changes with the time of day in Pune</sub>
+  <br><sub>art: <a href="https://giphy.com/gifs/rzeWnbH8Uc5Y4">pixelfoxy</a> via GIPHY · the scene changes with the time of day in Pune</sub>
 </p>
 
 <picture>
