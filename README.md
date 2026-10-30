@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.giphy.com/media/TRebCjNbc4dIA/giphy.gif" height="440" alt="Castle on the hill, a pixel-art animation shown for afternoon in Pune">
+  <img src="https://i.giphy.com/media/A5ffIYwJoEpVcMOYiO/giphy.gif" width="100%" alt="Running home at sunset, a pixel-art animation shown for evening in Pune">
 </p>
 
 <picture>
@@ -11,7 +11,7 @@
   <a href="https://www.linkedin.com/in/tejas03/"><code>linkedin</code></a> &nbsp;
   <a href="mailto:tejasthange3@gmail.com"><code>email</code></a> &nbsp;
   <a href="https://github.com/TejasThange3?tab=repositories"><code>repositories</code></a>
-  <br><sub>art: <a href="https://giphy.com/gifs/TRebCjNbc4dIA">via GIPHY</a> · the scene changes with the time of day in Pune</sub>
+  <br><sub>art: <a href="https://giphy.com/gifs/A5ffIYwJoEpVcMOYiO">Kevin Farias</a> via GIPHY · the scene changes with the time of day in Pune</sub>
 </p>
 
 <picture>
