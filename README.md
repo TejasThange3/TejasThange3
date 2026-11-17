@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.giphy.com/media/n53gX0wavokQE/giphy.gif" height="440" alt="Moonlit shore, a pixel-art animation shown for night in Pune">
+  <img src="https://i.giphy.com/media/5ngV4MB0UnYc2loCHT/giphy.gif" width="100%" alt="Winter sunrise, a pixel-art animation shown for morning in Pune">
 </p>
 
 <picture>
@@ -11,7 +11,7 @@
   <a href="https://www.linkedin.com/in/tejas03/"><code>linkedin</code></a> &nbsp;
   <a href="mailto:tejasthange3@gmail.com"><code>email</code></a> &nbsp;
   <a href="https://github.com/TejasThange3?tab=repositories"><code>repositories</code></a>
-  <br><sub>art: <a href="https://giphy.com/gifs/n53gX0wavokQE">via GIPHY</a> · the scene changes with the time of day in Pune</sub>
+  <br><sub>art: <a href="https://giphy.com/gifs/5ngV4MB0UnYc2loCHT">Anas Abdin</a> via GIPHY · the scene changes with the time of day in Pune</sub>
 </p>
 
 <picture>
